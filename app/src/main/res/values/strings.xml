@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FacebookApp</string>
+    <string name="facebook">facebook</string>
+    <string name="todo">todo</string>
+    <string name="android_programming">Android Programming</string>
+    <string name="_3d_tashkent">3d • Tashkent • </string>
+    <string name="_675">675</string>
+    <string name="_154_">154 Comments 11 Shares</string>
+    <string name="comment">Comment</string>
+    <string name="like">Like</string>
+    <string name="share">Share</string>
+    <string name="what">What\'s on your mind?</string>
+    <string name="live">Live</string>
+    <string name="room">Room</string>
+    <string name="photo">Photo</string>
+    <string name="cr">Create\nStory</string>
+    <string name="kotlin_pr">Kotlin Programming</string>
+    <string name="java_pr">Java Programming</string>
+</resources>
